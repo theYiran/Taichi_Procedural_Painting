@@ -7,9 +7,13 @@
 
 
 ![Leon demo](./data/leon.gif)
+![Leon demo](./data/leon_last.png)
 ![jean Genie demo](./data/jean_genie.gif)
+![jean Genie demo](./data/jean_genie_last.png)
 ![Mona Lisa demo](./data/Mona_Lisa.gif)
+![Mona Lisa demo](./data/Mona_Lisa_last.png)
 ![Meisje met de parel demo](./data/Meisje_met_de_parel.gif)
+![Meisje met de parel demo](./data/Meisje_met_de_parel_last.png)
 ## 整体结构（Optional）
 ```
 -LICENSE
