@@ -1,4 +1,4 @@
-# Taichi-Procedure Painting
+# Taichi-Procedural Painting
 
 ## 背景简介
 模仿绘画的过程生成任意图片
@@ -21,7 +21,4 @@
 -README.MD
 -xxx.py
 ```
-
-## 运行方式
-将Procedure_painting.py与输入图片放在同一文件夹中,修改.py中图片的文件名，在taichi环境中运行即可。
 
