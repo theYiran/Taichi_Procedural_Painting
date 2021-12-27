@@ -23,5 +23,5 @@ Procedural Mona Lisa using CUBIC strok
 
 ![Meisje met de parel demo](./data/Meisje_met_de_parel.gif) 
 Procedural Meisje met de parel using CIRCULAR stroke
-![Meisje met de parel demo](./data/Meisje_met_de_parel_2.gif) 
+![Meisje met de parel demo](./data/Meisje_met_de_parel_2.gif)  
 Procedural Meisje met de parel using CUBIC stroke
