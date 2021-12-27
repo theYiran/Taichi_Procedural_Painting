@@ -25,3 +25,8 @@ Procedural Mona Lisa using CUBIC strok
 Procedural Meisje met de parel using CIRCULAR stroke
 ![Meisje met de parel demo](./data/Meisje_met_de_parel_2.gif)
 Procedural Meisje met de parel using CUBIC stroke
+
+##使用方法
+Procedural_Painting.py用来生成Circular Stroke图像。
+Procedural_Painting_with_Window.py用来生成Cubic Stroke图像。
+将图片与.py放在同一文件夹中，修改.py中图片名称， 在taichi环境中运行即可。
