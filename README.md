@@ -8,12 +8,12 @@
 
 ![Leon demo](./data/leon.gif) 
 Procedural Leon using CIRCULAR stroke
-![Leon demo](./data/leon_2.gif) 
+![Leon demo](./data/Leon_2.gif) 
 Procedural Leon using CUBIC stroke
 
 ![jean Genie demo](./data/jean_genie.gif) 
 Procedutal Jean Genie using CIRCULAR stroke
-![jean Genie demo](./data/jean_genie_2.gif) 
+![jean Genie demo](./data/Jean_Genie_2.gif) 
 Procedutal Jean Genie using CUBIC stroke
 
 ![Mona Lisa demo](./data/Mona_Lisa.gif) 
